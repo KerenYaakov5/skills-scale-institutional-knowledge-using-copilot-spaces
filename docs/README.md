@@ -1,24 +1,17 @@
-# OctoAcme Project Management Documentation
+# OctoAcme Project Management
 
-Welcome to the OctoAcme project management documentation folder.
+This folder contains documentation on the business, technical, and operational processes of the OctoAcme project.
 
-## Summary
-This folder contains detailed documentation describing the project management processes we follow at OctoAcme. These processes are designed to ensure that our projects are efficient, well-organized, and consistently deliver value.
+## Table of Contents
 
-Topics covered include:
-- Project lifecycle
-- Roles and responsibilities
-- Planning and estimation
-- Task tracking
-- Review and feedback
-- Documentation standards
+- [Process Overview](process-overview.md)
+- [Technical Guidelines](technical-guidelines.md)
+- [Project Management Policies](project-management-policies.md)
 
-## Available Documentation
-- [Project Lifecycle](./project-lifecycle.md)
-- [Roles and Responsibilities](./roles-and-responsibilities.md)
-- [Planning and Estimation](./planning-and-estimation.md)
-- [Task Tracking](./task-tracking.md)
-- [Review and Feedback](./review-and-feedback.md)
-- [Documentation Standards](./documentation-standards.md)
+## Additional Process Documents
 
-If you have suggestions for improving these docs or additions to propose, please open an issue or a pull request.
+- [Software Roadmap](software-roadmap.md)
+- [Quality Assurance](quality-assurance.md)
+- [Support & Maintenance](support-maintenance.md)
+
+All documents referenced here are designed to ensure seamless collaboration and knowledge transfer within OctoAcme.
