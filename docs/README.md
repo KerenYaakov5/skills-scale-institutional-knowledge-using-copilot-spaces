@@ -1,4 +1,3 @@
----
 # OctoAcme Project Management Docs README
 
 ## Brief Project Management Processes Summary
@@ -20,4 +19,3 @@ OctoAcme applies a structured project management methodology focused on:
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
----
