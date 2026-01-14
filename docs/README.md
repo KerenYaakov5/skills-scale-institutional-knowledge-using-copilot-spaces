@@ -1,21 +1,24 @@
-# OctoAcme Project Management Docs README
+# OctoAcme Project Management Documentation
 
-## Brief Project Management Processes Summary
-OctoAcme applies a structured project management methodology focused on:
-- **Project Initiation**: Defining scope, stakeholders, and success metrics
-- **Planning**: Roadmaps, deliverables, roles and responsibilities
-- **Execution & Tracking**: Action items, statuses, and reporting
-- **Risk Management & Communication**: Identification, mitigation, escalation paths; stakeholder comms
-- **Release & Deployment**: Release checklists, QA, rollout
-- **Retrospective & Continuous Improvement**: Lessons learned, process adjustments
-- **Roles & Personas**: Who does what in each phase
+Welcome to the OctoAcme project management documentation folder.
 
-## 🚀 Docs Links
-- [Project Management Overview](octoacme-project-management-overview.md)
-- [Initiation](octoacme-project-initiation.md)
-- [Planning](octoacme-project-planning.md)
-- [Execution and Tracking](octoacme-execution-and-tracking.md)
-- [Risks and Communication](octoacme-risks-and-communication.md)
-- [Release and Deployment](octoacme-release-and-deployment.md)
-- [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](octoacme-roles-and-personas.md)
+## Summary
+This folder contains detailed documentation describing the project management processes we follow at OctoAcme. These processes are designed to ensure that our projects are efficient, well-organized, and consistently deliver value.
+
+Topics covered include:
+- Project lifecycle
+- Roles and responsibilities
+- Planning and estimation
+- Task tracking
+- Review and feedback
+- Documentation standards
+
+## Available Documentation
+- [Project Lifecycle](./project-lifecycle.md)
+- [Roles and Responsibilities](./roles-and-responsibilities.md)
+- [Planning and Estimation](./planning-and-estimation.md)
+- [Task Tracking](./task-tracking.md)
+- [Review and Feedback](./review-and-feedback.md)
+- [Documentation Standards](./documentation-standards.md)
+
+If you have suggestions for improving these docs or additions to propose, please open an issue or a pull request.
